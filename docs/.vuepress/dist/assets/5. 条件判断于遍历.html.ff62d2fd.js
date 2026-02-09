@@ -1,0 +1,1 @@
+import{_,o as e,c}from"./app.28331482.js";const r={};function t(o,a){return e(),c("div")}var s=_(r,[["render",t],["__file","5. \u6761\u4EF6\u5224\u65AD\u4E8E\u904D\u5386.html.vue"]]);export{s as default};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-38f9e5c2","path":"/JavaScript/BOM.html","title":"BOM","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1660737285000,"contributors":[{"name":"leirp","email":"leiruipeng1532@hanweb.com","commits":1}]},"filePathRelative":"JavaScript/BOM.md"}');export{e as data};
