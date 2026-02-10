@@ -191,7 +191,8 @@ export default defineConfig({
           items: [
             { text: '起步', link: '/小程序/起步.md' },
             { text: '生命周期', link: '/小程序/生命周期.md' },
-            { text: '组件', link: '/小程序/组件.md' }  
+            { text: '组件', link: '/小程序/组件.md' }
+          ]
         }
       ]
     },
