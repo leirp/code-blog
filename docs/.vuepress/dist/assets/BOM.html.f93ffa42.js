@@ -1,1 +1,0 @@
-import{_ as a,o as t,c as o,b as e,d as r}from"./app.28331482.js";const c={},s=e("h1",{id:"bom",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#bom","aria-hidden":"true"},"#"),r(" BOM")],-1),_=[s];function n(d,i){return t(),o("div",null,_)}var l=a(c,[["render",n],["__file","BOM.html.vue"]]);export{l as default};
